@@ -69,6 +69,8 @@ function Navbar() {
                 Sign Up
               </Link>
             </li>
+
+            
           </ul>
         </div>
       </nav>
